@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bradl/OneDrive/Desktop/Project Final/2023-project-2172968-Kipruto-2253526-Sekeleni/build/_deps/sfml-build/src/SFML/Audio/sfml-audio.rc
+winresrc.h
+C:/Users/bradl/OneDrive/Desktop/Project Final/2023-project-2172968-Kipruto-2253526-Sekeleni/build/_deps/sfml-build/src/SFML/Audio/winresrc.h
+

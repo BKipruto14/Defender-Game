@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/bradl/OneDrive/Desktop/Project Final/2023-project-2172968-Kipruto-2253526-Sekeleni/build/tests_tests-b858cb2.cmake")
+  include("C:/Users/bradl/OneDrive/Desktop/Project Final/2023-project-2172968-Kipruto-2253526-Sekeleni/build/tests_tests-b858cb2.cmake")
+else()
+  add_test(tests_NOT_BUILT-b858cb2 tests_NOT_BUILT-b858cb2)
+endif()

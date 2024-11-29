@@ -1,0 +1,3 @@
+C:/Users/bradl/OneDrive/Desktop/Project Final/2023-project-2172968-Kipruto-2253526-Sekeleni/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+C:/Users/bradl/OneDrive/Desktop/Project Final/2023-project-2172968-Kipruto-2253526-Sekeleni/build/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/bradl/OneDrive/Desktop/Project Final/2023-project-2172968-Kipruto-2253526-Sekeleni/build/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
